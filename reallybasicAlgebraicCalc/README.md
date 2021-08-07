@@ -1,1 +1,1 @@
-In this folder, I will be displaying a very simple algebraic calculator that uses a module I created that contains functions for adding, subtracting, multiplying, and dividing. (8/6/21) I'll be uploading the code tonight or in the morning!
+In this folder, I will be displaying a very simple algebraic calculator that uses a module I created that contains functions for adding, subtracting, multiplying, and dividing. Definitely want to add a more interactive calculator that can take inputs and deal with float types.
