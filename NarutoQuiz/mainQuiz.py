@@ -52,4 +52,4 @@ if response.lower() == "naruto":
 else:
     print("That's wrong :(")
 
-print("Your final score is " + str(score) + " !")
+print("You got " + str((score / 6) * 100) + "%.")
